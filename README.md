@@ -14,6 +14,5 @@
   <img align="right" alt="Robs-pic" height="150" style="border-radius:50px;" src= "https://i.picasion.com/pic91/897e79bd3726d4f9cc439cc3a6ba8438.gif" width="150" border="0"></a><br />
 </div>
 <div>
-![Snake animation](https://github.com/Roberta-Pantoja/Roberta-Pantoja/blob/output/github-contribution-grid-snake.svg)
- 
+![Snake animation](https://github.com/Roberta-Pantoja/Robs-Pantoja/blob/output/github-contribution-grid-snake.svg) 
 </div> 
